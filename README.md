@@ -34,6 +34,9 @@ The TrollStore is supported for: 14.0 beta 2 - 16.6.1, 16.7 RC (20H18), 17.0. So
 
 [Download Trollstore IPA Files](https://ipa.zeejb.com/trollstore.php)
 
+| iPA | Version | Description|
+| --- | --- | --- |
+| `LiveContainer` [Download](https://nightly.link/khanhduytran0/LiveContainer/workflows/build/main/com.kdt.livecontainer.ipa.zip) | 2.1.2 | - 📱 Run apps without installation: Execute iOS apps without fully installing them. - 🚀 Unlimited apps: Overcomes the 10-app limit of a free developer account. - 🔄 Multiple versions: Install and manage different versions of the same app with separate data containers. - 🛡️ Bypass codesigning: When JIT is available, codesigning isn't required, eliminating pre-installation signing. - 🔐 Streamlined signing: Apps are signed automatically with the LiveContainer certificate if needed|
 
 
 
