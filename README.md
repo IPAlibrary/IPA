@@ -37,6 +37,9 @@ The TrollStore is supported for: 14.0 beta 2 - 16.6.1, 16.7 RC (20H18), 17.0. So
 | iPA | Version | Description|
 | --- | --- | --- |
 | `LiveContainer` [Download](https://nightly.link/khanhduytran0/LiveContainer/workflows/build/main/com.kdt.livecontainer.ipa.zip) | 2.1.2 | - 📱 Run apps without installation: Execute iOS apps without fully installing them. - 🚀 Unlimited apps: Overcomes the 10-app limit of a free developer account. - 🔄 Multiple versions: Install and manage different versions of the same app with separate data containers. - 🛡️ Bypass codesigning: When JIT is available, codesigning isn't required, eliminating pre-installation signing. - 🔐 Streamlined signing: Apps are signed automatically with the LiveContainer certificate if needed|
+| `iSpoofer` [Download](https://ispoofer.app/Signed.ipa) [how to install](https://zeejb.com/ipa/ispoofer/) | 1.0.2.41 | - Fast Catch Joystick, Fast Map Load Speed Settings, Auto Feed & Pet Buddy IV Previews, Block Non-Shiny & Hundo Enhanced Throw, Spawn Booster, Freeze Pokemon, Skip Animations, Shiny Scanner, Virtual Go Plus, ProGo+|
+
+| `Sileo iPA` [Download]([https://ispoofer.app/Signed.ipa](https://mega.nz/file/a2x0HSAA#T0j1lgb5eibyLbJ3bzYaIq9ixIGRgCCvKlD0TWNmDPA)) [how to install](https://zeejb.com/sileo/) | 2.5.1 | - A modern package manager for iOS 11 - iOS 18.2 beta and higher, Add new jailbreaks, Apex and Amethyst Update Onboarding library, no more Sileo Ass.|
 
 
 
