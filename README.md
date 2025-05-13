@@ -11,29 +11,29 @@ Files with the. The IPA extension can be uncompressed by changing to .zip and th
 iPA Library is a database of IPA files containing games, Cydia apps, tweaked apps, and customized(Tweaked) versions of applications unavailable on the default Apple App Store. We have listed the best IPA libraries based on our research data. 
 
 Free iPA Library list: 
-> [Zee iPA Library](https://ipa.zeejb.com/)
-> [Kekuk iPA Library](https://ipa.kekuk.com/)
-> [Cobdy iPA Library](https://ipa.cobdy.com/free/)
-> [Unc0ver iPA Library](https://ipa.uncover-jailbreak.com/)
-> [Chimera iPA Store](https://ipa.chimera-jailbreak.com/)
-> [AppValley](https://appvalley.signulous.com/)
-> [iPA OMTK](https://ipaomtk.com/)
-> [Cypwn iPA Library](https://ipa.cypwn.xyz/)
-> Senumy iPA Store
-> [iOS Ninja ](https://iosninja.io/ipa-library-ios)
-> [iPA library ME](https://ipalibrary.me/)
-> [Decrypt iPA Store](https://decrypt.day/)
-> [TweakHome iPA Library](https://tweakhome.app/)
-> [iPA Library.net](https://ipalibrary.net/)
-> OneJailbreak iPA Library
-> [ Reppia iPA Library - Github repo](https://github.com/portatiilshop/repoipa)
-> [iOSVizor Store ](https://iosvizor.com/)
-> [iOSgods - IPA Modded Library for iOS](https://iosgodsipa.com/)
-> [IPA Library catalog](https://ipa-staff.interleaf.ie/)
-> [swaggyP36000/TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs)
-> [Cokernutx - IPA Library](https://www.cokernutx.com/ipa-library/)
-> [TechIPAS - iPA Library](https://sites.google.com/view/jbnews4u/ipa-library)
-> [AppDB iPA Database](https://appdbpro.com/)
+- [Zee iPA Library](https://ipa.zeejb.com/)
+- [Kekuk iPA Library](https://ipa.kekuk.com/)
+- [Cobdy iPA Library](https://ipa.cobdy.com/free/)
+- [Unc0ver iPA Library](https://ipa.uncover-jailbreak.com/)
+- [Chimera iPA Store](https://ipa.chimera-jailbreak.com/)
+- [AppValley](https://appvalley.signulous.com/)
+- [iPA OMTK](https://ipaomtk.com/)
+- [Cypwn iPA Library](https://ipa.cypwn.xyz/)
+- Senumy iPA Store
+- [iOS Ninja ](https://iosninja.io/ipa-library-ios)
+- [iPA library ME](https://ipalibrary.me/)
+- [Decrypt iPA Store](https://decrypt.day/)
+- [TweakHome iPA Library](https://tweakhome.app/)
+- [iPA Library.net](https://ipalibrary.net/)
+- OneJailbreak iPA Library
+- [ Reppia iPA Library - Github repo](https://github.com/portatiilshop/repoipa)
+- [iOSVizor Store ](https://iosvizor.com/)
+- [iOSgods - IPA Modded Library for iOS](https://iosgodsipa.com/)
+- [IPA Library catalog](https://ipa-staff.interleaf.ie/)
+- [swaggyP36000/TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs)
+- [Cokernutx - IPA Library](https://www.cokernutx.com/ipa-library/)
+- [TechIPAS - iPA Library](https://sites.google.com/view/jbnews4u/ipa-library)
+- [AppDB iPA Database](https://appdbpro.com/)
 
 
 ## Is the IPA library safe??
